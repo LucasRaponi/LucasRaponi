@@ -1,10 +1,15 @@
 
 
+
+
 | Lenguajes | Plataformas o programas |            
 | ------ | ------ |                               
 | HTML | Firebase |                               
 | CSS, BOOTRSTRAP | Figma, Photoshop |
 | Javascript, React.JS | Github |
+
+
+
 
 
 ```javascript 
@@ -38,5 +43,13 @@ console.log("Bueno al menos soy simpático")}
 > "Lucas Raponi es sin dudas lo mas increible que le ha pasado al mundo de la tecnología después de Steve Wozniak"
 
 ###### Realmente nadie dijo eso pero puedo asegurarles que muy pronto voy a tener un testimonio así
+
+
+
+
+:e-mail: Mi correo es: lucasagustinraponi@hotmail.com
+:necktie: Acá finjo que soy más serio linkedin.com/in/lucasraponi/
+
+
 
 
