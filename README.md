@@ -45,4 +45,9 @@ console.log("Bueno al menos soy simpático")}
 
 
 
+- :e-mail: Mi correo es: lucasagustinraponi@hotmail.com
+- :necktie: Acá finjo que soy más serio [linkedin.com/in/lucasraponi/](linkedin.com/in/lucasraponi/)
+
+
+
 
