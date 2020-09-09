@@ -36,8 +36,6 @@ console.log("Bueno al menos soy simpático")}
 
 
 
-
-
 #### Testimonio de empresarios exitosos diciendo que soy una eminencia en el mundo de la informatica 
 
 > "Lucas Raponi es sin dudas lo mas increible que le ha pasado al mundo de la tecnología después de Steve Wozniak"
@@ -47,8 +45,8 @@ console.log("Bueno al menos soy simpático")}
 
 
 
-:e-mail: Mi correo es: lucasagustinraponi@hotmail.com
-:necktie: Acá finjo que soy más serio linkedin.com/in/lucasraponi/
+:e-mail: #### Mi correo es: lucasagustinraponi@hotmail.com
+:necktie: #### Acá finjo que soy más serio [linkedin.com/in/lucasraponi/](linkedin.com/in/lucasraponi/)
 
 
 
