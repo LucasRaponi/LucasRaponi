@@ -36,11 +36,6 @@ console.log("Bueno al menos soy simpático")}
 
 
 
-#### Testimonio de empresarios exitosos diciendo que soy una eminencia en el mundo de la informatica 
-
-> "Lucas Raponi es sin dudas lo mas increible que le ha pasado al mundo de la tecnología después de Steve Wozniak"
-
-###### Realmente nadie dijo eso pero puedo asegurarles que muy pronto voy a tener un testimonio así
 
 
 
